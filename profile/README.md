@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to STEM-Away Mentor Chains GitHub. Navigate here for our project showcases.
+
+For leads: Check out this tutorial on setting up a new project repo using our template. 
+
 <!--
 
 **Here are some ideas to get you started:**
