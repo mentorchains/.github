@@ -4,8 +4,8 @@ Welcome to STEM-Away Mentor Chains GitHub. Navigate here for our project showcas
 
 For leads - Check out these tutorials to get started:
 
-- [Creating a project team]()
-- [Create a project repository]()
+- [Creating a project team](https://mentorchains.github.io/resources/SA_gist/Create_teams_GitHub.pdf)
+- [Create a project repository](https://mentorchains.github.io/resources/SA_gist/Use_template_repo.pdf)
 
 <!--
 
